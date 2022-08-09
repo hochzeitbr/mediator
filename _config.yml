@@ -8,7 +8,7 @@ title: "Mediator"
 description: > # this means to ignore newlines until "email:"
    A Jekyll theme - Medium inspired
 
-email: a-mail@mail.mail
+email: "melaniemueller@gmx.ch"
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
@@ -16,14 +16,14 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Melanie Müller'
+author: 'Melanie Müller'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
+url: "https://hochzeitbr.github.io" # the base hostname & protocol for your site
+baseurl: "/mediator/"
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
 
